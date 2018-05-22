@@ -4,6 +4,11 @@ import java.rmi.RemoteException;
 
 import javax.xml.rpc.ServiceException;
 
+/**
+ * @author user
+ * 本例是配合sever端字符拆分来使用的客户端
+ *
+ */
 public class TestWS {
 	
 	public static void main(String[] args) {
